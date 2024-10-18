@@ -1,3 +1,6 @@
+(https://www.nexmosphere.com/support)
+---
+
 # XT Touch con controller XN-185 (da 1 a 8 touch buttons) (senza alimentazione esterna)
 
 ## Componenti necessari
@@ -40,8 +43,6 @@ Questo controller dispone di 8 interfacce X-talk, che ti permettono di collegare
 
 ### 2. **Sensore Lidar XQ**
 Collega il sensore a una delle interfacce X-talk sul controller XN-185.
-
-(https://www.nexmosphere.com/support)
 
 ---
 
